@@ -6,7 +6,7 @@ This project presents a **Financial Dashboard** built in **Power BI Desktop**, d
 
 ## 📁 Files Included
 - `Financial_Dashboard.pbix` – The main Power BI file containing all visuals and data model.
-- `financial_dataset.csv` – Raw dataset used in this dashboard (include only if you're uploading it).
+
 
 ---
 
