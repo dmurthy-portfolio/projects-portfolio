@@ -84,7 +84,7 @@ Each project involves real-world datasets and highlights my skills in data clean
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dhanya-murthy-aba763214) or email if you're interested in collaboration, feedback, or discussion!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dhanya-murthy-aba763214) or [email](dhanyamurthy2002@gmail.com) if you're interested in collaboration, feedback, or discussion!
 
 ---
 
