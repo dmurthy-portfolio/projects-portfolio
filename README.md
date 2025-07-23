@@ -130,7 +130,10 @@ NLP projects analyzing and interpreting human language through text classificati
 Feedback, ideas, and collaborations are welcome. Feel free to fork the repository or open an issue to connect!
 
 ---
+## 📄 License
 
+This repository is available under the **MIT License**. Feel free to explore, use, and modify.
+---
 
 ## 📬 Contact
 
