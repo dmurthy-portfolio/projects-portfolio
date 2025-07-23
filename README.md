@@ -13,8 +13,13 @@ Each project involves real-world datasets and highlights my skills in data clean
 │
 ├── powerbi/
 │   ├── Financial Dashboard/
-│   ├── Coffee Chain Dashboard/
-│   └── [Other Power BI projects]
+|   ├── Coffee Chain Dashboard/
+|   ├── Car Sales Dashboard/
+|   ├── Mobile Sales Dashboard/
+|   ├── Sales Performance Analysis/
+|   ├── Food Nutrient Analysis/
+|   ├── HR Analytics/
+|   └──Personal Finance Dashboard/
 │
 ├── python/
 │   ├── Airbnb NYC 2019 Data Analysis/
@@ -25,7 +30,27 @@ Each project involves real-world datasets and highlights my skills in data clean
 │
 ├── mysql/
 │   └── SupplyChain/
-│
+|
+├── web-scraping/
+│   ├── Job Postings Scraper (Indeed)/
+|   └── Market Growth & Job Opportunities/
+|
+├── Data analysis and visualization/
+│   ├── House Price Prediction/
+|   └──  Zomato Data Analysis/
+|
+├── ML/
+│   ├── Credit Card Fraud Detection/
+|   └──  Customer Segmentation (Unsupervised ML)/
+|
+├── Time series and forecast/
+│   ├── Sales Forecast Prediction/
+|   └──  Stock Price Prediction using Time Series/
+|
+├── NLP/
+│   ├── Fake News Detection (NLP)/
+|   └── Twitter Sentiment Analysis/
+│   
 └── README.md (You're here!)
 ```
 
