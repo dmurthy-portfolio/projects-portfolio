@@ -1,8 +1,6 @@
-# 📊 Data Projects Portfolio
+# 📦 Data Analytics & Machine Learning Portfolio
 
-Welcome to my data projects portfolio! This repository showcases a collection of my completed projects across **Power BI**, **Python (Jupyter Notebook)**, and **MySQL**.
-
-Each project involves real-world datasets and highlights my skills in data cleaning, analysis, visualization, and generating actionable insights.
+Welcome to my portfolio of data-driven projects showcasing expertise in **data analysis**, **machine learning**, **business intelligence**, and **data visualization** using tools like **Python**, **Power BI**, **MySQL**, and **web scraping**. Projects are organized by domain and technology.
 
 ---
 
@@ -56,56 +54,83 @@ Each project involves real-world datasets and highlights my skills in data clean
 
 ---
 
-## 📈 Power BI Projects
+## 📊 Power BI Dashboards
 
-**Tools Used:** Power BI Desktop, DAX, Power Query
-
-1. **Financial Dashboard**
-   - Analyzes revenue, expenses, and profit trends
-   - Includes KPIs and region-wise comparisons
-
-2. **Coffee Chain Dashboard**
-   - Sales, profit, and product-level performance
-   - Interactive slicers and trend analysis
-
+Interactive dashboards designed to uncover insights and trends from various industries.
 ➡️ `.pbix` files are included. Datasets used are available inside each folder.
 
 ---
 
-## 🐍 Python Data Analysis Projects (Jupyter Notebook)
 
-**Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook
+---
 
-1. **Airbnb NYC 2019 Data Analysis**
-   - Exploratory analysis of Airbnb listings by price, location, room type
+## 🐍 Python Projects
 
-2. **Application Dataset Analysis**
-   - Insights into mobile app trends (installs, ratings, categories)
-
-3. **BigMart Sales Prediction**
-   - Predictive modeling for product sales using regression techniques
-
-4. **Bitcoin Daily Price Analysis**
-   - Time-series analysis of daily Bitcoin prices, volatility, and returns
-
-5. **London Housing and Demographics**
-   - Relationship between housing prices and socio-economic factors
+Python-based analytics projects with Jupyter Notebooks, covering diverse datasets and use cases.
 
 ➡️ Each folder contains `.ipynb` notebook, dataset, and visualizations.
 
 ---
 
-## 🛠️ MySQL Project – Supply Chain Analysis
 
-**Tools Used:** MySQL Workbench
+## 🛢️ MySQL Projects
 
-- Analyzes order performance, department-level trends, and cancellations
-- Joins, aggregation, KPIs, and business logic for decision support
-- Dataset: `supplychain_data.xlsx`
+Structured data analysis using SQL for querying and deriving insights from relational databases.
 
 ➡️ Includes sample SQL queries and structure documentation.
 
 ---
+
+## 🌐 Web Scraping Projects
+
+Extracting and analyzing real-time data from the web using Python scraping libraries.
+
+
+---
+
+## 📈 Data Analysis & Visualization
+
+Exploratory data analysis, insights generation, and business-focused visual storytelling.
+
+
+---
+
+## 🤖 Machine Learning (ML)
+
+Supervised and unsupervised machine learning applications for prediction and segmentation.
+
+
+---
+
+## ⏳ Time Series & Forecasting
+
+Projects using time-series modeling and forecasting for predictive insights.
+
+
+---
+
+## 🗣️ Natural Language Processing (NLP)
+
+NLP projects analyzing and interpreting human language through text classification and sentiment analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, NLTK, Statsmodels, Plotly
+- **BI Tools**: Power BI Desktop
+- **Databases**: MySQL
+- **Others**: Web Scraping (BeautifulSoup, Requests, Selenium), Jupyter Notebooks
+
+---
+
+## 🤝 Contributing
+
+Feedback, ideas, and collaborations are welcome. Feel free to fork the repository or open an issue to connect!
+
+---
+
 
 ## 📬 Contact
 
