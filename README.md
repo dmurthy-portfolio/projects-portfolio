@@ -39,7 +39,10 @@ Welcome to my portfolio of data-driven projects showcasing expertise in **data a
 |
 ├── ML/
 │   ├── Credit Card Fraud Detection/
-|   └──  Customer Segmentation (Unsupervised ML)/
+|   ├── Customer Segmentation (Unsupervised ML)
+|   ├── IPL Score Prediction
+|   ├── Wine Quality Prediction
+|   ├── Parkinson's Disease Prediction using Machine Learning/
 |
 ├── Time series and forecast/
 │   ├── Sales Forecast Prediction/
